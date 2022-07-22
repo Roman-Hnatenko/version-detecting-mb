@@ -354,7 +354,7 @@ h11 = ">=0.9.0,<1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "702dac4d3b2cf57ae1f19b4c23393c5c26cbcc1d48e962008a38b89a9657b401"
+content-hash = "d4b4a592b2c6a610903219812b69043afc0bf9ef51c8a239eae753c815c86bb1"
 
 [metadata.files]
 async-generator = []
