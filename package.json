@@ -1,0 +1,22 @@
+{
+  "name": "version-detecting-mb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roman-Hnatenko/version-detecting-mb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roman-Hnatenko/version-detecting-mb/issues"
+  },
+  "homepage": "https://github.com/Roman-Hnatenko/version-detecting-mb#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
